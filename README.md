@@ -19,7 +19,29 @@ It uses an ESP8266 to attack a WiFi network using Deauther & Evil-Twin AP method
 * Wi-Fi Signal Strength show with -dbm
 * Deauthentication of a target WiFi access point
 * Evil-Twin AP to capture passwords with password verification against the og access point
-* It can do both attacks at the same time, no toggling of the deauther is required. 
+* It can do both attacks at the same time, no toggling of the deauther is required.
+
+## Screenshots
+
+<table>
+  <tr>
+    <th>172.0.0.1/index</th>
+    <th>172.0.0.1/post</th> 
+    <th>172.0.0.1/pass</th>
+    <th>172.0.0.1/ssid</th>
+  </tr>
+  <tr>
+    <td>This is the main page. Here the user will write his password and send it.</td>
+    <td>This is the post page. The user will be redirected here after posting the password.</td>
+    <td>This is where the attacker can retrieve all the passwords that has been posted.</td>
+    <td>Here the attacker can change the SSID name of the Access Point on the go.</td>
+  <tr>
+    <td><img width="200px" src="https://github.com/mahadidot/DEVIL-TWIN_esp8266/blob/main/meme.jpg" title="index"></td>
+    <td><img width="200px" src="https://github.com/mahadidot/DEVIL-TWIN_esp8266/blob/main/meme.jpg" title="post"></td>
+    <td><img width="200px" src="https://github.com/mahadidot/DEVIL-TWIN_esp8266/blob/main/meme.jpg" title="pass"></td>
+<td><img width="200px" src="https://github.com/mahadidot/DEVIL-TWIN_esp8266/blob/main/meme.jpg" title="ssid"></td>
+  </tr>
+</table>
 
 
 ## Install using Arduino IDE
