@@ -26,10 +26,10 @@ It uses an ESP8266 to attack a WiFi network using Deauther & Evil-Twin AP method
 
 <table>
   <tr>
-    <th>192.168.4.1/ anything </th>
-    <th>192.168.4.1/ </th> 
+    <th>Victim POV</th>
+    <th>Checking Password/ </th> 
     <th>192.168.4.1/pro</th>
-    <th>192.168.4.1/</th>
+    <th>192.168.4.1 Main UI/</th>
   </tr>
   <tr>
     <td>This is the main page. Here the user will write his password and send it.</td>
