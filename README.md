@@ -21,9 +21,6 @@ It uses an ESP8266 to attack a WiFi network using Deauther & Evil-Twin AP method
 * Evil-Twin AP to capture passwords with password verification against the og access point
 * It can do both attacks at the same time, no toggling of the deauther is required. 
 
-## DISCLAIMER
-The source code given in this public repo is for educational use only and should only be used against your own networks and devices!<br>
-Please check the legal regulations in your country before using it.
 
 ## Install using Arduino IDE
 1. Install Arduino IDE
@@ -42,6 +39,11 @@ Please check the legal regulations in your country before using it.
 - Click the Start Evil-Twin button. {optionally reconnect to the newly created AP named same as your target. (will be open)}
 - You can stop any of the attacks by visiting 192.168.4.1/pro while conected to Evil-Twin AP or by resetting the ESP8266.
 - Once a correct PASSWORD is found, AP will be restarted with default ssid "M4H4D!~H4$$4N" / "devil2in" and at the bottom of a table you should be able to see something like "Successfully got password for - `TARGET_SSID` - `PASSWORD`
+
+## DISCLAIMER
+The source code given in this public repo is for educational use only and should only be used against your own networks and devices!<br>
+Please check the legal regulations in your country before using it.
+
 
 ## Credits:
 * https://github.com/SpacehuhnTech/esp8266_deauther
