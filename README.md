@@ -32,9 +32,9 @@ It uses an ESP8266 to attack a WiFi network using Deauther & Evil-Twin AP method
   </tr>
   <tr>
     <td>This is the main page. Here the user will write his password and send it.</td>
-    <td>This is the post page. The user will be redirected here after posting the password.</td>
-    <td>This is where the attacker can retrieve all the passwords that has been posted.</td>
-    <td>Here the attacker can change the SSID name of the Access Point on the go.</td>
+    <td>This is the post page. The user will be redirected here after entering the password.</td>
+    <td>This is where the attacker can the passwords that has been Pawned.</td>
+    <td>Here the attacker index, wifi names, mac, signal strenth (-dbm).</td>
   <tr>
     <td><img width="200px" src="https://github.com/mahadidot/DEVIL-TWIN_esp8266/blob/main/victim.jpg" title="victim pov"></td>
     <td><img width="200px" src="https://github.com/mahadidot/DEVIL-TWIN_esp8266/blob/main/check.jpg" title="checking password"></td>
