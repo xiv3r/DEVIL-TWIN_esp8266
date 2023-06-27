@@ -25,10 +25,10 @@ It uses an ESP8266 to attack a WiFi network using Deauther & Evil-Twin AP method
 
 <table>
   <tr>
-    <th>172.0.0.1/index</th>
-    <th>172.0.0.1/post</th> 
-    <th>172.0.0.1/pass</th>
-    <th>172.0.0.1/ssid</th>
+    <th>192.168.4.1/ anything </th>
+    <th>192.168.4.1/ </th> 
+    <th>192.168.4.1/pro</th>
+    <th>192.168.4.1/</th>
   </tr>
   <tr>
     <td>This is the main page. Here the user will write his password and send it.</td>
@@ -36,10 +36,10 @@ It uses an ESP8266 to attack a WiFi network using Deauther & Evil-Twin AP method
     <td>This is where the attacker can retrieve all the passwords that has been posted.</td>
     <td>Here the attacker can change the SSID name of the Access Point on the go.</td>
   <tr>
-    <td><img width="200px" src="https://github.com/mahadidot/DEVIL-TWIN_esp8266/blob/main/meme.jpg" title="index"></td>
-    <td><img width="200px" src="https://github.com/mahadidot/DEVIL-TWIN_esp8266/blob/main/meme.jpg" title="post"></td>
-    <td><img width="200px" src="https://github.com/mahadidot/DEVIL-TWIN_esp8266/blob/main/meme.jpg" title="pass"></td>
-<td><img width="200px" src="https://github.com/mahadidot/DEVIL-TWIN_esp8266/blob/main/meme.jpg" title="ssid"></td>
+    <td><img width="200px" src="https://github.com/mahadidot/DEVIL-TWIN_esp8266/blob/main/victim.jpg" title="victim pov"></td>
+    <td><img width="200px" src="https://github.com/mahadidot/DEVIL-TWIN_esp8266/blob/main/check.jpg" title="checking password"></td>
+    <td><img width="200px" src="https://github.com/mahadidot/DEVIL-TWIN_esp8266/blob/main/gotpass.jpg" title="pass"></td>
+<td><img width="200px" src="https://github.com/mahadidot/DEVIL-TWIN_esp8266/blob/main/ui.jpg" title="ssid"></td>
   </tr>
 </table>
 
