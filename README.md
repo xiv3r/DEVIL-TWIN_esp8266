@@ -1,5 +1,6 @@
 
-# ESP8266 Evil Twin + Deauther = Devil-Twin 
+# Devil-Twin  = Evil Twin + Deauther 
+# ESP8266 
 <p align="center">
 <img title="Version" src="https://img.shields.io/badge/Version-1.0-green">
 <img title="Support" src="https://img.shields.io/badge/Support-No-red">
