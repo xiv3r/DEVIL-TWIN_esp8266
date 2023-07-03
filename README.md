@@ -15,6 +15,7 @@ Use this tool only on networks that you have permission for.
 It uses an ESP8266 to attack a WiFi network using Deauther & Evil-Twin AP method.
 
 ## FEATURES :
+* Now you can control web interface with simple android app **NEW
 * Dark themed UI
 * WIFI Refresh button (without reloading the page manually)
 * Wi-Fi Signal Strength show with -dbm
