@@ -16,6 +16,7 @@ It uses an ESP8266 to attack a WiFi network using Deauther & Evil-Twin AP method
 
 ## FEATURES :
 * Now you can control web interface with simple android app **NEW
+* Added .bin file for flash with android phone🖤 **NEW
 * Dark themed UI
 * WIFI Refresh button (without reloading the page manually)
 * Wi-Fi Signal Strength show with -dbm
@@ -55,6 +56,9 @@ It uses an ESP8266 to attack a WiFi network using Deauther & Evil-Twin AP method
 6. Select an `ESP8266 Deauther` board in Arduino under `tools` -> `board`
 7. Connect your device and select the serial port in Arduino under `tools` -> `port`
 8. Click Upload button
+
+# You can flash .bin file using esp8266-loader android app
+
 
 # How to use:
 - Connect to the AP named `M4H4D!~H4$$4N` with password `devil2in` from your phone/PC.
